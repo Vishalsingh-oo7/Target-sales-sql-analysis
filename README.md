@@ -1,1 +1,1 @@
-# 🛒 Target Sales Case Study: Customer Sales Analysis (SQL)
+# 🛒 Target Case Study: Customer Sales Analysis (SQL)

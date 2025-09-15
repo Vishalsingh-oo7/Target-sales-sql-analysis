@@ -14,6 +14,13 @@ The objective was to uncover **sales patterns, delivery trends, and customer pay
 * **GitHub** (Version control & documentation)
 
 ---
+---
+
+## 📂 Project Files
+- 📓 [View Notebook on GitHub](https://github.com/Vishalsingh-oo7/Target-sales-sql-analysis/blob/main/Target_Case_Study.ipynb)  
+- 🚀 [Run Notebook in Google Colab](https://colab.research.google.com/github/Vishalsingh-oo7/Target-sales-sql-analysis/blob/main/Target_Case_Study.ipynb)  
+
+---
 
 ### 📂 Project Workflow
 

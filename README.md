@@ -1,13 +1,13 @@
-# 🛒 Target Case Study: Customer Sales Analysis
+## 🛒 Target Case Study: Customer Sales Analysis
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project analyzes **customer purchase behavior for Target** using **SQL on BigQuery**.
 The objective was to uncover **sales patterns, delivery trends, and customer payment behavior** to generate actionable business insights.
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 * **Google BigQuery** (Data storage & querying)
 * **SQL** (Data analysis)
@@ -15,7 +15,7 @@ The objective was to uncover **sales patterns, delivery trends, and customer pay
 
 ---
 
-## 📂 Project Workflow
+### 📂 Project Workflow
 
 1. **Data Cleaning & Preparation**
 
@@ -36,7 +36,7 @@ The objective was to uncover **sales patterns, delivery trends, and customer pay
 
 ---
 
-## 📊 Key Findings
+### 📊 Key Findings
 
 * 📈 **Festive months (Oct–Dec) show the highest sales volumes**
 * 🥇 **Electronics & Home Essentials** account for \~40% of total revenue
@@ -44,6 +44,3 @@ The objective was to uncover **sales patterns, delivery trends, and customer pay
 * 🚚 Regional gaps: **northern/remote states face higher freight costs & delays**
 * 💳 **1x payment is most popular**, but **2–4x and 10x installments** are common for high-ticket items
 
----
-
-Would you like me to make this **GitHub-ready** (with badges, table of contents, and a clean professional layout), or keep it as a simple project summary?

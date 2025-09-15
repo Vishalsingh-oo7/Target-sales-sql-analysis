@@ -1,37 +1,49 @@
-# 🛒 Target Case Study: Customer Sales Analysis (SQL)
+# 🛒 Target Case Study: Customer Sales Analysis
 
 ## 📌 Project Overview
-This project analyzes **customer purchase behavior for Target** using SQL.  
-The goal was to uncover **sales trends, top-performing products, and customer segments** to drive business insights and strategy.
+
+This project analyzes **customer purchase behavior for Target** using **SQL on BigQuery**.
+The objective was to uncover **sales patterns, delivery trends, and customer payment behavior** to generate actionable business insights.
 
 ---
 
 ## 🛠 Tools & Technologies
-- SQL 
-- GitHub (Version control & documentation)
+
+* **Google BigQuery** (Data storage & querying)
+* **SQL** (Data analysis)
+* **GitHub** (Version control & documentation)
 
 ---
 
 ## 📂 Project Workflow
+
 1. **Data Cleaning & Preparation**
-   - Removed duplicates, handled missing values
-   - Normalized column names for consistency
+
+   * Removed duplicates and handled missing values
+   * Standardized column names for consistency
 
 2. **Exploratory Data Analysis (EDA)**
-   - Ran SQL queries to identify sales patterns
-   - Segmented customers based on purchasing behavior
 
-3. **Sales Insights**
-   - Top 10 best-selling products
-   - Seasonal and regional sales performance
-   - High-value customer identification
+   * Ran SQL queries on BigQuery to analyze order and payment trends
+   * Segmented customers by purchase frequency, value, and region
 
+3. **Sales & Operations Insights**
+
+   * Identified **top-selling products and categories**
+   * Analyzed **seasonality and monthly peaks**
+   * Measured **delivery times vs. estimated delivery dates**
+   * Studied **payment installment patterns** across customers
 
 ---
 
 ## 📊 Key Findings
-- 📈 Sales peak during festive months (Oct–Dec)  
-- 🥇 Electronics & Home Essentials drive **40% of revenue**  
-- 👥 Top 20% of customers contribute to **65% of sales**  
+
+* 📈 **Festive months (Oct–Dec) show the highest sales volumes**
+* 🥇 **Electronics & Home Essentials** account for \~40% of total revenue
+* 👥 **Top 20% customers drive \~65% of overall sales**
+* 🚚 Regional gaps: **northern/remote states face higher freight costs & delays**
+* 💳 **1x payment is most popular**, but **2–4x and 10x installments** are common for high-ticket items
 
 ---
+
+Would you like me to make this **GitHub-ready** (with badges, table of contents, and a clean professional layout), or keep it as a simple project summary?
